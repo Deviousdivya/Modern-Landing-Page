@@ -120,7 +120,7 @@ html,body{
 @font-face {
 
     font-family: "Kajiro";
-    src: url("fonts/Kajiro.ttf") format("truetype");
+    src: url("fonts/Kajiro.woff2") format("truetype");
 }
 
 #heroleft #elem h1 {
